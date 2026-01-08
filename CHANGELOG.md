@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.0](https://github.com/terraform-aws-modules/terraform-aws-efs/compare/v2.0.0...v2.1.0) (2026-01-08)
+
+### Features
+
+* Add provider meta user-agent ([#50](https://github.com/terraform-aws-modules/terraform-aws-efs/issues/50)) ([3e57398](https://github.com/terraform-aws-modules/terraform-aws-efs/commit/3e57398b2ce8aa6455259b7ec7ea9cc7e8b01300))
+
 ## [2.0.0](https://github.com/terraform-aws-modules/terraform-aws-efs/compare/v1.8.1...v2.0.0) (2025-10-24)
 
 ### ⚠ BREAKING CHANGES
